@@ -15,3 +15,5 @@ PeterShirley's RayTracing Tutorial use Java
 ## All Images of Every Chapters are As follows：
 
 ### Chapter 1:   Motion Blur
+
+![](https://raw.githubusercontent.com/yhcheer/RayTracingTheNextWeek/master/images/Cp1.jpg)
