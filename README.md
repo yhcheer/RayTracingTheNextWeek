@@ -2,7 +2,7 @@
 
 ## Introduce
 
-《RayTracingTheNextWeek》是PeterShirley所著的光线追踪系列教程第二本书，这里是用Java复现的版本，点击下方链接获取更多教程及代码复现。
+《Ray Tracing The Next Week》is Peter Shirley's **second** book for ray tracing tutorials. This is my Java version. You can click to get other tutorials of **Java version**.
 
 PeterShirley's RayTracing Tutorial use Java
 
