@@ -44,5 +44,11 @@
     <ClInclude Include="aabb.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="bvh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="moving_sphere.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

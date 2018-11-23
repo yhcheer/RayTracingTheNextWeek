@@ -4,6 +4,8 @@
 #include <iostream>
 #include <fstream>
 #include "sphere.h"
+#include "bvh.h"
+#include "moving_sphere.h"
 #include "hitable_list.h"
 #include "float.h"
 #include "camera.h"
@@ -36,9 +38,7 @@ vec3 color(const ray& r, hitable *world, int depth) {
 	}
 }
 
-float Rand() {
-	return rand() % 10000 / 10000.0;
-}
+
 
 hitable *random_scene() {
 	int n = 500;
@@ -77,7 +77,8 @@ hitable *random_scene() {
 	list[i++] = new sphere(vec3(-4, 1, 0), 1.0, new lambertian(vec3(0.4, 0.2, 0.1)));
 	list[i++] = new sphere(vec3(4, 1, 0), 1.0, new metal(vec3(0.7, 0.6, 0.5), 0.0));
 
-	return new hitable_list(list, i);
+	//return new hitable_list(list, i);
+	return new bvh_node(list, i, 0.0, 1.0);
 }
 
 int main() {
@@ -85,7 +86,7 @@ int main() {
 	int ny = 100;
 	int ns = 100;
 	srand((unsigned)time(NULL));
-	ofstream outfile("test.ppm", ios_base::out);
+	ofstream outfile("test_bvh.ppm", ios_base::out);
 	outfile << "P3\n" << nx << " " << ny << "\n255\n";
 	//hitable *list[5];
 	float R = cos(M_PI / 4);
