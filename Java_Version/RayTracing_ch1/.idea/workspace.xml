@@ -1,7 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8b77129-1558-4e1b-af28-786542558ff2" name="Default Changelist" comment="" />
+    <list default="true" id="c8b77129-1558-4e1b-af28-786542558ff2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/.idea/libraries/Maven__jmagick_jmagick_6_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/RayTracing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Camera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/ConsoleProgress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Dielectric.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Display.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/HitRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Hitable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/HitableList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Lambertian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Material.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Metal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/MovingSphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Ray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/RayTracing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Sphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Vec3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/src/main/java/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/ConsoleProgress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Dielectric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/HitRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Hitable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/HitableList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Lambertian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Material.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Metal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/MovingSphere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Ray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/RayTracing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Sphere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Vec3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch1/target/classes/Wrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/.idea/libraries/Maven__jmagick_jmagick_6_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/RayTracing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/AABB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/BvhNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Camera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/ConsoleProgress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Dielectric.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Display.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/HitRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Hitable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/HitableList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Lambertian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Material.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Metal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/MovingSphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Ray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/RayTracing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Sphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Vec3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/src/main/java/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/AABB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/BvhNode$Box_x_compare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/BvhNode$Box_y_compare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/BvhNode$Box_z_compare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/BvhNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/ConsoleProgress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Dielectric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/HitRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Hitable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/HitableList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Lambertian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Material.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Metal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/MovingSphere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Ray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/RayTracing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Sphere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Vec3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RayTracing_ch2/target/classes/Wrapper.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -348,6 +436,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-380442735">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="RayTracing_cp8" />
@@ -357,8 +454,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Display.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="126" column="34" lean-forward="true" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+            <state relative-caret-position="534">
+              <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -369,8 +466,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Metal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="209">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -379,11 +476,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/MovingSphere.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-              </folding>
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -391,8 +484,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Sphere.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+            <state relative-caret-position="494">
+              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -400,17 +493,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Dielectric.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="1007">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Camera.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="49" column="58" lean-forward="true" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+            <state relative-caret-position="342">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -419,7 +512,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Ray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -440,14 +533,9 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/RayTracing.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../RayTracing_cp2/src/main/java/Ray.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -460,7 +548,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -532,27 +620,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="RayTracing_cp1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RayTracing_cp1" type="462c0819:PsiDirectoryNode" />
+              <item name="RayTracing_ch1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RayTracing_ch1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RayTracing_cp1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RayTracing_cp1" type="462c0819:PsiDirectoryNode" />
+              <item name="RayTracing_ch1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RayTracing_ch1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RayTracing_cp1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RayTracing_cp1" type="462c0819:PsiDirectoryNode" />
+              <item name="RayTracing_ch1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RayTracing_ch1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RayTracing_cp1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RayTracing_cp1" type="462c0819:PsiDirectoryNode" />
+              <item name="RayTracing_ch1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RayTracing_ch1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -562,12 +651,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Develop/JavaTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -617,9 +705,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49875313" visible="true" weight="0.15147454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49875313" visible="true" weight="0.15298508" />
       <window_info id="Structure" order="1" sideWeight="0.50124687" side_tool="true" weight="0.13337801" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50124687" side_tool="true" weight="0.13337801" />
@@ -724,6 +813,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../RayTracing_cp2/src/main/java/Ray.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Metal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MovingSphere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sphere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dielectric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HitableList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -734,71 +859,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Sphere.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/RayTracing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MovingSphere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Metal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Camera.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="49" column="58" lean-forward="true" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dielectric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Display.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="126" column="34" lean-forward="true" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+        <state relative-caret-position="534">
+          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RayTracing.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Camera.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="342">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RayTracing_cp2/src/main/java/Ray.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
