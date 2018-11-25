@@ -16,6 +16,10 @@ Peter Shirley's Ray Tracing Tutorial of my accomplishment
 
 ### Chapter 5: Image Texture Mapping
 
+![](https://raw.githubusercontent.com/yhcheer/RayTracingTheNextWeek/master/images/Raytracing_ch5_1.jpg)
+
+![](https://raw.githubusercontent.com/yhcheer/RayTracingTheNextWeek/master/images/Raytracing_ch5_2.jpg)
+
 ### Chapter 4: Perlin Noise
 
 ![](https://raw.githubusercontent.com/yhcheer/RayTracingTheNextWeek/master/images/Raytracing_ch4_6.jpg)
