@@ -19,9 +19,6 @@ public:
 
 };
 
-float Rand() {
-	return rand() % 10000 / 10000.0;
-}
 
 /* 用来获取包围盒 */
 bool bvh_node::bounding_box(float t0, float t1, aabb& b) const {

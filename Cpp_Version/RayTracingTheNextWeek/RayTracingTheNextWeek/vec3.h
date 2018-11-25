@@ -140,3 +140,7 @@ inline vec3& vec3::operator/=(const float t) {
 inline vec3 unit_vector(vec3 v) {
 	return v / v.length();
 }
+
+inline float Rand() {
+	return rand() % 10000 / 10000.0;
+}
