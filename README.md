@@ -16,7 +16,7 @@ Peter Shirley's Ray Tracing Tutorial of my accomplishment
 
 ### Chapter 7: Instances
 
-
+![](https://raw.githubusercontent.com/yhcheer/RayTracingTheNextWeek/master/images/Raytracing_ch7_2.jpg)
 
 ### Chapter 6: Rectangles and Lights
 
