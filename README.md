@@ -14,6 +14,16 @@ Peter Shirley's Ray Tracing Tutorial of my accomplishment
 
 ## All Images of Every Chapters are As follows：
 
+### Chapter 7: Instances
+
+
+
+### Chapter 6: Rectangles and Lights
+
+![](https://raw.githubusercontent.com/yhcheer/RayTracingTheNextWeek/master/images/Raytracing_ch6_3.jpg)
+
+![](https://raw.githubusercontent.com/yhcheer/RayTracingTheNextWeek/master/images/Raytracing_ch6_2.jpg)
+
 ### Chapter 5: Image Texture Mapping
 
 ![](https://raw.githubusercontent.com/yhcheer/RayTracingTheNextWeek/master/images/Raytracing_ch5_1.jpg)
