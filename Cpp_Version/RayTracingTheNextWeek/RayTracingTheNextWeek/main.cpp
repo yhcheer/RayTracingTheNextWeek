@@ -15,6 +15,7 @@
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 #include "image_texture.h"
+#include "box.h"
 
 
 
@@ -142,15 +143,20 @@ hitable *cornell_box() {
 	list[i++] = new flip_normals(new xz_rect(0, 555, 0, 555, 555, white));
 	list[i++] = new xz_rect(0, 555, 0, 555, 0, white);
 	list[i++] = new flip_normals(new xy_rect(0, 555, 0, 555, 555, white));
+
+	/*list[i++] = new box(vec3(130, 0, 65), vec3(295, 165, 230), white);
+	list[i++] = new box(vec3(265, 0, 295), vec3(430, 330, 460), white);*/
+	list[i++] = new translate(new rotate_y(new box(vec3(0, 0, 0), vec3(165, 165, 165), white), -18), vec3(130, 0, 65));
+	list[i++] = new translate(new rotate_y(new box(vec3(0, 0, 0), vec3(165, 330, 165), white), 15), vec3(265, 0, 295));
 	return new hitable_list(list, i);
 }
 
 int main() {
-	int nx = 1980;
-	int ny = 1080;
-	int ns = 100;
+	int nx = 800;
+	int ny = 800;
+	int ns = 10000;
 	srand((unsigned)time(NULL));
-	ofstream outfile("Raytracing_ch6_3.ppm", ios_base::out);
+	ofstream outfile("Raytracing_ch7_2.ppm", ios_base::out);
 	outfile << "P3\n" << nx << " " << ny << "\n255\n";
 	float R = cos(M_PI / 4);
 	hitable *world = cornell_box();
